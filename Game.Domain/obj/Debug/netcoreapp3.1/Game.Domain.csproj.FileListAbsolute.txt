@@ -1,0 +1,10 @@
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\bin\Debug\netcoreapp3.1\Game.Domain.deps.json
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\bin\Debug\netcoreapp3.1\Game.Domain.dll
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\bin\Debug\netcoreapp3.1\Game.Domain.pdb
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.csproj.AssemblyReference.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.AssemblyInfoInputs.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.AssemblyInfo.cs
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.dll
+C:\Users\eduardo.costa\source\repos\Game\Game.Domain\obj\Debug\netcoreapp3.1\Game.Domain.pdb

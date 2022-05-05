@@ -1,0 +1,16 @@
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Infra.Data.deps.json
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Infra.Data.runtimeconfig.json
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Infra.Data.runtimeconfig.dev.json
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Infra.Data.dll
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Infra.Data.pdb
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Domain.dll
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\bin\Debug\netcoreapp3.1\Game.Domain.pdb
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.AssemblyInfo.cs
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.dll
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.pdb
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.genruntimeconfig.cache
+C:\Users\eduardo.costa\source\repos\Game\Game.Infra.Data\obj\Debug\netcoreapp3.1\Game.Infra.Data.csproj.CopyComplete
